@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "tag": "valentines:passionite_ore"
-  },
-  "result": "valentines:passionite",
-  "experience": 0.7,
-  "cookingtime": 200
-}

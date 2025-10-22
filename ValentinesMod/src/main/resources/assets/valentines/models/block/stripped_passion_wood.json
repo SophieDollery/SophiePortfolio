@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "valentines:block/stripped_passion_log"
-  }
-}

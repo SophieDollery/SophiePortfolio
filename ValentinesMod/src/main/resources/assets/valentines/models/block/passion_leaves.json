@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "valentines:block/passion_leaves"
-  },
-  "render_type": "cutout"
-}
