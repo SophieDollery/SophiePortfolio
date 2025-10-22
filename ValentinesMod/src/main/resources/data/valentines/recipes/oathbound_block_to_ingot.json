@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valentines:oathbound_block"
+    }
+  ],
+  "result": {
+    "item": "valentines:oathbound_ingot",
+    "count": 9
+  }
+}

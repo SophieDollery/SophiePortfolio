@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_heartbreak_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "valentines:heartbreak_ingot",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["has_heartbreak_items"]
+  ],
+  "rewards": {
+    "recipes": [
+      "valentines:heartbreak_block",
+      "valentines:heartbreak_sword",
+      "valentines:heartbreak_helmet",
+      "valentines:heartbreak_chestplate",
+      "valentines:heartbreak_leggings",
+      "valentines:heartbreak_boots"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_passionite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "valentines:passionite",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["has_passionite"]
+  ],
+  "rewards": {
+    "recipes": [
+      "valentines:goldheart_ingot",
+      "valentines:heartbreak_ingot"
+    ]
+  }
+}

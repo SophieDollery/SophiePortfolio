@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EEE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "valentines:oathbound_ingot"
+    }
+  },
+  "result": {
+    "item": "valentines:oathbound_block"
+  }
+}

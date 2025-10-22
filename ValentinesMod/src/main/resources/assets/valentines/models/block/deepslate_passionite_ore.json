@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "valentines:block/deepslate_passionite/top",
+    "down": "valentines:block/deepslate_passionite/top",
+    "north": "valentines:block/deepslate_passionite/side",
+    "south": "valentines:block/deepslate_passionite/side",
+    "east": "valentines:block/deepslate_passionite/side",
+    "west": "valentines:block/deepslate_passionite/side",
+    "particle": "valentines:block/deepslate_passionite/top"
+  }
+}
