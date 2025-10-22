@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "valentines:raw_jitterbug_meat"
+  },
+  "result": "valentines:cooked_jitterbug_meat",
+  "experience": 5,
+  "cookingtime": 300
+}

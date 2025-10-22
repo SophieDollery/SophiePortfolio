@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "valentines:block/passion_log_top",
+    "side": "valentines:block/passion_log"
+  }
+}

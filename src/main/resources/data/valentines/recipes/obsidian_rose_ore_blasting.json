@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "valentines:obsidian_rose_ore"
+  },
+  "result": "valentines:obsidian_rose",
+  "experience": 0.7,
+  "cookingtime": 100
+}

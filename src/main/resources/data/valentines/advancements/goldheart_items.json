@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_goldheart_items": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "valentines:goldheart_ingot",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["has_goldheart_items"]
+  ],
+  "rewards": {
+    "recipes": [
+      "valentines:goldheart_block",
+      "valentines:goldheart_sword",
+      "valentines:goldheart_helmet",
+      "valentines:goldheart_chestplate",
+      "valentines:goldheart_leggings",
+      "valentines:goldheart_boots"
+    ]
+  }
+}
