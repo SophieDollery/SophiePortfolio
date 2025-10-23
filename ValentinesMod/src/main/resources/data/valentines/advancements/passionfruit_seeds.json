@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_passionfruit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "valentines:passionfruit",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["has_passionfruit"]
+  ],
+  "rewards": {
+    "recipes": [
+      "valentines:passionfruit_seeds"
+    ]
+  }
+}

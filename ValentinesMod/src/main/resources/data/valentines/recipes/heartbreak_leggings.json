@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "E E",
+    "E E"
+  ],
+  "key": {
+    "E": {
+      "item": "valentines:heartbreak_ingot"
+    }
+  },
+  "result": {
+    "item": "valentines:heartbreak_leggings"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "valentines:block/obsidian_rose_ore"
+  }
+}

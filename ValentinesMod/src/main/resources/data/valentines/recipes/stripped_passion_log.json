@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EE",
+    "EE"
+  ],
+  "key": {
+    "E": {
+      "item": "valentines:stripped_passion_log"
+    }
+  },
+  "result": {
+    "item": "valentines:stripped_passion_wood",
+    "count": 3
+  }
+}

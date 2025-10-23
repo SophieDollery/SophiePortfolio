@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valentines:heartbreak_block"
+    }
+  ],
+  "result": {
+    "item": "valentines:heartbreak_ingot",
+    "count": 9
+  }
+}
